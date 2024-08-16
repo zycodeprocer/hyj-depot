@@ -1,9 +1,5 @@
+#扫雷
 #!/bin/bash
-
-# Mine Sweeper   version 1.1   august 2008   written by Feherke
-# the classic game in text mode
-
-
 shopt -s extglob
 IFS=''
 
