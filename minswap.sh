@@ -1,4 +1,5 @@
-#扫雷
+#Usage:扫雷小游戏
+#语言:shell
 #!/bin/bash
 shopt -s extglob
 IFS=''
