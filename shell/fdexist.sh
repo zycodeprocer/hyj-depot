@@ -1,3 +1,4 @@
+#查看指定文件是否存在
 #!/bin/bash
 read -p "请输入需要查看的路径:" path
 if [ -e $path ];then
