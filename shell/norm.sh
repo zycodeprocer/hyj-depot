@@ -1,3 +1,4 @@
+#shell规范
 #!/bin/bash
 #name:zy
 #desc:norm
